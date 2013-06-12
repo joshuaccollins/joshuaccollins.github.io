@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[A blog by Joshua Caleb Collins]]></title>
   <link href="http://joshuaccollins.github.io/atom.xml" rel="self"/>
   <link href="http://joshuaccollins.github.io/"/>
-  <updated>2013-06-09T15:45:01-04:00</updated>
+  <updated>2013-06-11T20:21:25-04:00</updated>
   <id>http://joshuaccollins.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,11 +14,74 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Hello big bad world]]></title>
-    <link href="http://joshuaccollins.github.io/blog/2013/06/09/hello-big-bad-world/"/>
-    <updated>2013-06-09T15:44:00-04:00</updated>
-    <id>http://joshuaccollins.github.io/blog/2013/06/09/hello-big-bad-world</id>
-    <content type="html"><![CDATA[
+    <title type="html"><![CDATA[Creating your foundation]]></title>
+    <link href="http://joshuaccollins.github.io/blog/2013/06/11/creating-your-foundation/"/>
+    <updated>2013-06-11T19:26:00-04:00</updated>
+    <id>http://joshuaccollins.github.io/blog/2013/06/11/creating-your-foundation</id>
+    <content type="html"><![CDATA[<h2 id="the-three-week-crash-course-in-learning-about-computer-programming-leveraging-existing-teaching-tools">The three-week crash course in learning about computer programming leveraging existing teaching tools.</h2>
+
+<h3 id="initial-greeting-and-background">Initial Greeting and Background</h3>
+
+<p>Greetings and welcome to my technical blog. This is my first blog (ever) so bare with me on the initial few until I find the rhythm. I am currently in week two of a twelve week epic journey as a student at The Flatiron School in New York City. At the end of this quest to aim to have the skills and mindset to be a Ruby on Rails developer. Before jumping into the post, I wanted to give you some background on how I ended up taking a fully immersive coding course and putting everything else on hold.</p>
+
+<p>My first experience interacting with technology (outside of surfing the web) came after I graduated and was embarking on my first startup. We came to a point where we could no longer afford to pay our development firm to update our website. I dove into DreamWeaver and started to learn the ins-and-outs of HTML and PHP. The experience was a rude awakening and the first time I desired to really know how to make things work from a development perspective, but that phase was limited and quickly forgotten.</p>
+
+<p>A couple years later I launched my second venture and this time the technology was the our core offering. I was still on the management side but exposed to the technology aspect of the following: working with a developer, firing a developer, dumping the initial code, learning about project management, understanding the conceptual framework of building websites, databases, learning the importance of user flow and user interface design, finding bugs, fixing bugs, and finding more bugs. It was a lot and I was way in over my head. Many times through the process I muttered to myself “if only I knew how to code” I wouldn’t have to depend on outside developers or initial seed-funding to get my ideas to a stage to attract. </p>
+
+<p>Fast forward a few more years and I found myself looking to startup another company. Since I had still not found my much needed technical co-founder, I decided to take things into my own hands and enrolled in The Flatiron School and was honored to be one of the few accepted. Before starting the semester there was a plethora of prep-work that was required of the students amounting to over 100 hours. Through this process I was exposed to many various tools online aimed at helping beginners grasp the concepts of coding. </p>
+
+<p>This entry will be in three parts split into three weeks and will pull from the various resources that exist online. These blogs are written for those who do not have an experience with web development. They are meant to give you a solid foundation from which you will be able to dive further into learning other development frameworks such as Ruby, Python, PHP, etc.</p>
+
+<h2 id="week-1">WEEK 1</h2>
+
+<h3 id="the-basics">The Basics</h3>
+
+<p>| Topic        | Source        | Est. Time |
+:———— | :————-: | :———— |</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Website Basics</td>
+      <td><a href="http://teamtreehouse.com/library/websites/website-basics/website-basics">Treehouse</a></td>
+      <td>1 hr</td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Graphic Basics</td>
+      <td><a href="http://teamtreehouse.com/library/websites/technology-foundations/graphic-basics">Treehouse</a></td>
+      <td>30 min</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="things-to-remember">Things to remember!</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>First Header</th>
+      <th>Second Header</th>
+      <th>Third Header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+    <tr>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+      <td>Content Cell</td>
+    </tr>
+  </tbody>
+</table>
 ]]></content>
   </entry>
   
