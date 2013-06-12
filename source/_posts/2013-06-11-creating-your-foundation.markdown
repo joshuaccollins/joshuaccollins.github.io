@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-## The three-week crash course in learning about computer programming leveraging existing teaching tools.
+## The three-week crash course about computer programming leveraging existing teaching tools.
 
 ### Initial Greeting and Background
 
@@ -26,15 +26,10 @@ My posts will be in three parts split into three weeks and will pull from the va
 
 | Topic       | Source        | Est. Time |
 |------------ | ------------- | --------- |
-
 | Website Basics | [Treehouse](http://teamtreehouse.com/library/websites/website-basics/website-basics)  | 1 hr. |
-
 | Graphic Basics | [Treehouse](http://teamtreehouse.com/library/websites/technology-foundations/graphic-basics) | 30 min. |
- 
 | Learning Shortcuts | [ShortcutFoo](https://www.shortcutfoo.com) | TBD |
-
 | Aesthetic Foundation | [Treehouse](http://teamtreehouse.com/library/websites/aesthetic-foundations) | 2.5 hrs. |
-
 | Technology Terms | [Skillcrush](http://www.skillcrush.com/terms/) | 1 hr. |
 
 
@@ -43,14 +38,9 @@ My posts will be in three parts split into three weeks and will pull from the va
 
 | Topic       | Source        | Est. Time |
 |------------ | ------------- | --------- |
-
-
 | Getting started with the Console | [Treehouse](http://teamtreehouse.com/library/programming/console-foundations/getting-started-with-the-console) | 1 hr. |
-
 | Command Line Basics | [Treehouse](http://blog.teamtreehouse.com/command-line-basics) | 30 min. |
-
 | Bash Basics | [Lifehacker](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything) | 30 min. |
-
 | Unix for Mac OS X | [Lynda](http://www.lynda.com/Mac-OS-X-10-6-tutorials/Unix-for-Mac-OS-X-Users/78546-2.html) | 7 hrs. |
 
 
@@ -58,10 +48,7 @@ My posts will be in three parts split into three weeks and will pull from the va
 
 | Topic       | Source        | Est. Time |
 |------------ | ------------- | --------- |
-
-
 | Web Fundamentals (Focus on 1-3) | [Codecademy](http://www.codecademy.com/tracks/web) | 4 hrs. |
-
 | HTML | [Treehouse](http://teamtreehouse.com/library/websites/html) | 8 hrs. |
 
 
@@ -69,18 +56,13 @@ My posts will be in three parts split into three weeks and will pull from the va
 
 | Topic       | Source        | Est. Time |
 |------------ | ------------- | --------- |
-
 | Web Fundamentals (Focus on 4-6) | [Codecademy](http://www.codecademy.com/tracks/web) | 4 hrs. |
-
 | CSS Foundations | [Treehouse](http://teamtreehouse.com/library/websites/css-foundations-2) | 15 hrs. |
-
 
 ### Week 1 Review Exercises
 
 | Topic       | Source        | Est. Time |
 |------------ | ------------- | --------- |
-
 | 3 for 5 (HTML5 & CSS3) | [Code School](http://www.codeschool.com/courses/functional-html5-css3) | 6 hrs. |
-
 | Build a Simple Website | [Treehouse](http://teamtreehouse.com/library/websites/build-a-simple-website) | 6 hrs. |
 
