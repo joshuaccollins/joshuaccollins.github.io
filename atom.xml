@@ -4,7 +4,7 @@
   <title><![CDATA[A technical blog by Joshua Caleb Collins]]></title>
   <link href="http://joshuaccollins.github.io/atom.xml" rel="self"/>
   <link href="http://joshuaccollins.github.io/"/>
-  <updated>2013-06-17T01:01:27-04:00</updated>
+  <updated>2013-06-26T02:02:09-04:00</updated>
   <id>http://joshuaccollins.github.io/</id>
   <author>
     <name><![CDATA[Joshua Caleb Collins]]></name>
@@ -12,6 +12,222 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Creating your foundation: Week 2:]]></title>
+    <link href="http://joshuaccollins.github.io/blog/2013/06/25/week-2-buildling-your-foundation/"/>
+    <updated>2013-06-25T11:34:00-04:00</updated>
+    <id>http://joshuaccollins.github.io/blog/2013/06/25/week-2-buildling-your-foundation</id>
+    <content type="html"><![CDATA[<h3>Week two of the three-week crash course about computer programming leveraging existing teaching tools.</h3>
+
+<h4>Serendipity</h4>
+
+<p>It was quite serendipitous that our guest speaker today at the <a href="http://www.flatironschool.com">Flatiron School</a> was no other than the legendary <a href="http://ejohn.org/">John Resig</a>, creator of <a href="http://jquery.com/">jQuery</a>. The timing was quite special because this week&rsquo;s focus is on JavaScript and jQuery. Pretty bloody awesome, right?!</p>
+
+<p>This week we are breaking free from the basics of HTML and CSS and starting to learn more about how to make our sites more asthetically appealing and entertaining by integrating dynamic functions. So what&rsquo;s JavaScript and jQuery?</p>
+
+<p>Well, thanks to the amazing team at <a href="http://www.skillcrush.com/terms/javascript.html">Skillcrush</a>, we have an artful explaination. Here is what they say about JavaScript and jQuery. Be sure to check out more of their <a href="http://skillcrush.com/terms/">tech terms</a> if you are interested. They rock!</p>
+
+<h6>JavaScript:</h6>
+
+<p>JavaScript is a programming language that helps make a web page interactive.
+When you view a slideshow or get annoying popup ads &ndash; that&rsquo;s JavaScript. If you see your Facebook Timeline update or Google autocomplete a search term &ndash; that&rsquo;s JavaScript.
+When most anything changes on a page without you clicking a link &ndash; that&rsquo;s JavaScript!
+JavaScript is one of the few programming languages that can work in your browser. Because of its ubiquity and how easy it was to learn, for many years it was dismissed by professionals as being a toy for amateurs.
+This all changed around ten years ago with the advent of &ldquo;AJAX&rdquo; and &ldquo;Web 2.0.&rdquo; These were sets of technology that used JavaScript in a whole new way, allowing the Web to be way more interactive than it had been before. So next time you use a Google Spreadsheet or watch a Tweet update on a web page, you can know what&rsquo;s going on &ndash; that&rsquo;s JavaScript!</p>
+
+<h6>jQuery:</h6>
+
+<p>jQuery is a library of preset JavaScript tasks that makes it easy and fast to make your site interactive and fun.</p>
+
+<h1>Gametime!</h1>
+
+<h2>WEEK 2</h2>
+
+<h3>jQuery</h3>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> Topic                 </th>
+<th> Source      </th>
+<th> Est. Time </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td> jQuery                </td>
+<td> <a href="http://www.codecademy.com/tracks/jquery">Codecademy</a>  </td>
+<td> 8 hrs. |</td>
+</tr>
+<tr>
+<td></td>
+<td> Try jQuery              </td>
+<td> <a href="http://www.codeschool.com/courses/try-jquery">Code School</a> </td>
+<td> 6 hrs. |</td>
+</tr>
+<tr>
+<td></td>
+<td> jQuery Air: Captain&rsquo;s Log    </td>
+<td> <a href="http://www.codeschool.com/courses/jquery-air-captains-log">Code School</a> </td>
+<td> 6 hrs. |</td>
+</tr>
+</tbody>
+</table>
+
+
+<h3>JavaScript</h3>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> Topic                 </th>
+<th> Source      </th>
+<th> Est. Time </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td> JavaScript              </td>
+<td> <a href="http://www.codecademy.com/tracks/javascript">Codecademy</a>  </td>
+<td> 12 hrs. |</td>
+</tr>
+<tr>
+<td></td>
+<td> JavaScript Foundations       </td>
+<td> <a href="http://teamtreehouse.com/library/websites/javascript-foundations">Treehouse</a> </td>
+<td> 10 hrs. |</td>
+</tr>
+</tbody>
+</table>
+
+
+<h3>Week 2 Review Exercises</h3>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> Topic                 </th>
+<th> Source      </th>
+<th> Est. Time </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td> Build a Responsive Website       </td>
+<td> <a href="http://teamtreehouse.com/library/websites/build-a-responsive-website">Treehouse</a>  </td>
+<td> 5 hrs. |</td>
+</tr>
+<tr>
+<td></td>
+<td> Build an Interactive Website    </td>
+<td> <a href="http://teamtreehouse.com/library/websites/build-an-interactive-website">Treehouse</a> </td>
+<td> 8 hrs. |</td>
+</tr>
+</tbody>
+</table>
+
+
+<h3>Reading Resources:</h3>
+
+<h5>(Optional)</h5>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th> Title                 </th>
+<th> Author(s)      </th>
+<th> </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td> <a href="http://eloquentjavascript.net/">Eloquent JavaScript</a> </td>
+<td> Marign Haverbeke </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <a href="http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/193398869X">Secrets of the JavaScript Ninja</a>  </td>
+<td> John Resig (creator of jQuery) &amp; Bear Bibeault </td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td> <a href="http://www.amazon.com/jQuery-Action-Second-Edition-Bibeault/dp/1935182323">jQuery in Action</a> </td>
+<td> Bear Bibeault &amp; Yehuda Katz </td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+
+<p><a href="https://twitter.com/jcalebCollins">Feedback is always welcome. Drop me a line!</a></p>
+
+<h6>Onward!</h6>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Sweet Sinatra]]></title>
+    <link href="http://joshuaccollins.github.io/blog/2013/06/23/sweet-sinatra/"/>
+    <updated>2013-06-23T11:35:00-04:00</updated>
+    <id>http://joshuaccollins.github.io/blog/2013/06/23/sweet-sinatra</id>
+    <content type="html"><![CDATA[<p>SinMagick a front-end for image processing and thumbnailing with flexible storage options.</p>
+
+<h2>Rapid Dashboard Making with Dashing</h2>
+
+<p><img src="http://shopify.github.io/dashing/images/bowtie.png" title="" alt="Large icon" /></p>
+
+<p>Using the one and only Ruby Sinatra developers are able to create high resolution dashboards using <a href="http://shopify.github.io/dashing/">Dashing.</a> This framework was originally created by the developers at Shopify who wanted to display custom dashboards on TV&rsquo;s around the office showing their progress and success. Since Shopify is an epicly awesome company I decided to take a closer look under the hood to see what we could find.</p>
+
+<h4>Main takaways:</h4>
+
+<ul>
+<li><p>Use premade widgets, or fully create your own with scss, html, and coffeescript.</p></li>
+<li><p>Widgets harness the power of data bindings to keep things DRY and simple. Powered by batman.js.</p></li>
+<li><p>Use the API to push data to your dashboards, or make use of a simple ruby DSL for fetching data.</p></li>
+<li><p>Drag &amp; Drop interface for re-arranging your widgets.</p></li>
+<li><p>Host your dashboards on Heroku in less than 30 seconds.</p></li>
+<li><p>Every new Dashing project comes with sample widgets &amp; sample dashboards for you to explore.</p></li>
+<li><p>Widgets use <a href="http://batmanjs.org/docs/batman.html#batman-view-bindings-how-to-use-bindings">batman bindings</a> in order to update their contents. Whenever the data changes, the DOM will automatically reflect the changes.</p></li>
+<li><p>When you pass in data with a title attribute, the widget&rsquo;s title variable will change, and so will all DOM elements bound to it. No need to handle that yourself which is nice.</p></li>
+</ul>
+
+
+<h4>A responce from Shopify on the following question:</h4>
+
+<p>&ldquo;Why use Dashing when there are plenty of cloud based dashboards out there?&rdquo;</p>
+
+<h6>Use our own authentication.</h6>
+
+<p>  Many online platforms give you private URLs to your dashboards. Those can be tricky to remember, and can accidentally fall in the wrong hands. With Dashing, you can add whatever auth you want. We use Google Auth.</p>
+
+<h5>Be completely customizable.</h5>
+
+<p>  We didn&rsquo;t want to be limited by the widgets that are available on other platforms. We also wanted all of our code to be in version control, and editable in whatever IDE we want.</p>
+
+<h5>Keep instances of the same widget in sync.</h5>
+
+<p>  Many online dashboards give unique ids for every widget instance you create. This means that if you want to update 3 identical widgets showing &lsquo;daily sales&rsquo;, you&rsquo;ll need to use the API to push the value to all 3 instances. With Dashing, identical widgets all have the same id, meaning less duplication, and complete synchrony across all dashboards.</p>
+
+<p>That&rsquo;s it for my review of Dashing. Looks like a pretty cool tool for dashboards. Just remember I&rsquo;m only four weeks into my development careers so take everything with a grain of salt. Main information from this post comes from <a href="http://shopify.github.io/dashing/">Shopify&rsquo;s Github portal</a> &amp; <a href="https://github.com/Shopify/dashing/wiki">wiki</a>.</p>
+
+<h5>Bonus: <a href="http://dashingdemo.herokuapp.com/sample">Click here to checkout some live dashboard build on Dashing!</a></h5>
+
+<p><a href="https://twitter.com/jcalebCollins">Feedback is always welcome. Drop me a line!</a></p>
+
+<h6>Onward!</h6>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[An introduction to Ruby Motion]]></title>
@@ -58,12 +274,14 @@
 
 <p>A big thank you again to <a href="http://openmonkey.com/">Tim Riley</a> for his <a href="http://openmonkey.com/">presentation</a> on Speaker Deck. For more advanced developers, and those with experience with RubyMotion, please do excuse my novice review of this tool. If you have any further suggestions please feel free to share them with me.</p>
 
-<p>Onward!</p>
+<p><a href="https://twitter.com/jcalebCollins">Feedback is always welcome. Drop me a line!</a></p>
+
+<h6>Onward!</h6>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Creating your foundation]]></title>
+    <title type="html"><![CDATA[Creating your foundation: Week 1]]></title>
     <link href="http://joshuaccollins.github.io/blog/2013/06/11/creating-your-foundation/"/>
     <updated>2013-06-11T19:26:00-04:00</updated>
     <id>http://joshuaccollins.github.io/blog/2013/06/11/creating-your-foundation</id>
@@ -89,40 +307,40 @@
 <thead>
 <tr>
 <th></th>
-<th> Topic       </th>
-<th> Source        </th>
+<th> Topic                 </th>
+<th> Source      </th>
 <th> Est. Time </th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td></td>
-<td> Website Basics </td>
+<td> Website Basics        </td>
 <td> <a href="http://teamtreehouse.com/library/websites/website-basics/website-basics">Treehouse</a>  </td>
 <td> 1 hr. |</td>
 </tr>
 <tr>
 <td></td>
-<td> Graphic Basics </td>
+<td> Graphic Basics        </td>
 <td> <a href="http://teamtreehouse.com/library/websites/technology-foundations/graphic-basics">Treehouse</a> </td>
 <td> 30 min. |</td>
 </tr>
 <tr>
 <td></td>
-<td> Learning Shortcuts </td>
+<td> Learning Shortcuts    </td>
 <td> <a href="https://www.shortcutfoo.com">ShortcutFoo</a> </td>
 <td> TBD |</td>
 </tr>
 <tr>
 <td></td>
-<td> Aesthetic Foundation </td>
+<td> Aesthetic Foundation  </td>
 <td> <a href="http://teamtreehouse.com/library/websites/aesthetic-foundations">Treehouse</a> </td>
 <td> 2.5 hrs. |</td>
 </tr>
 <tr>
 <td></td>
-<td> Technology Terms </td>
-<td> <a href="http://www.skillcrush.com/terms/">Skillcrush</a> </td>
+<td> Technology Terms      </td>
+<td>  <a href="http://www.skillcrush.com/terms/">Skillcrush</a> </td>
 <td> 1 hr. |</td>
 </tr>
 </tbody>
@@ -176,7 +394,7 @@
 <tr>
 <th></th>
 <th> Topic       </th>
-<th> Source        </th>
+<th> Source       </th>
 <th> Est. Time </th>
 </tr>
 </thead>
@@ -203,8 +421,8 @@
 <thead>
 <tr>
 <th></th>
-<th> Topic       </th>
-<th> Source        </th>
+<th> Topic      </th>
+<th> Source      </th>
 <th> Est. Time </th>
 </tr>
 </thead>
@@ -252,6 +470,10 @@
 </tbody>
 </table>
 
+
+<p><a href="https://twitter.com/jcalebCollins">Feedback is always welcome. Drop me a line!</a></p>
+
+<h6>Onward!</h6>
 ]]></content>
   </entry>
   
