@@ -6,8 +6,6 @@ comments: true
 categories: 
 ---
 
-# An Introduction to RubyMotion
-
 This weekend we had yet another plethora of assignments to complete for our [Flatiron School](https://flatironschool.com) [Captain](https://twitter.com/aviflombaum). One of the assignments was to dive into [Speaker Deck](http://www.speakerdeck.com) and find something of interest and report back to the class. 
 
 We're about to start our third week and I feel like I've been thrown into the rushing rapids of a river that will eventually spit me out in the "deep end" of the learning pool. For some reason, even though I'm still grasping for air and am having difficulties with the current basics of Ruby, I decided to explore [RubyMotion](www.RubyMotion.com). I was sick of the basics, or should I say the frustration with feeling like I was walking with concrete shoes and wanted to explore something new. 
@@ -45,5 +43,7 @@ If you want to build for iOS and don't want to have to learn Objective-C from sc
 
 A big thank you again to [Tim Riley](http://openmonkey.com/) for his [presentation](http://openmonkey.com/) on Speaker Deck. For more advanced developers, and those with experience with RubyMotion, please do excuse my novice review of this tool. If you have any further suggestions please feel free to share them with me.
 
-Onward!
+[Feedback is always welcome. Drop me a line!](https://twitter.com/jcalebCollins)
+
+###### Onward!
 

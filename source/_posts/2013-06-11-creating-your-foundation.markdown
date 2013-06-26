@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating your foundation"
+title: "Creating your foundation: Week 1"
 date: 2013-06-11 19:26
 comments: true
 categories: 
@@ -24,20 +24,20 @@ My posts will be in three parts split into three weeks and will pull from the va
 
 ### The Basics
 
-| Topic       | Source        | Est. Time |
-|------------ | ------------- | --------- |
-| Website Basics | [Treehouse](http://teamtreehouse.com/library/websites/website-basics/website-basics)  | 1 hr. |
-| Graphic Basics | [Treehouse](http://teamtreehouse.com/library/websites/technology-foundations/graphic-basics) | 30 min. |
-| Learning Shortcuts | [ShortcutFoo](https://www.shortcutfoo.com) | TBD |
-| Aesthetic Foundation | [Treehouse](http://teamtreehouse.com/library/websites/aesthetic-foundations) | 2.5 hrs. |
-| Technology Terms | [Skillcrush](http://www.skillcrush.com/terms/) | 1 hr. |
+| Topic                 | Source      | Est. Time |
+|-----------------------|-------------|-----------|
+| Website Basics        | [Treehouse](http://teamtreehouse.com/library/websites/website-basics/website-basics)  | 1 hr. |
+| Graphic Basics        | [Treehouse](http://teamtreehouse.com/library/websites/technology-foundations/graphic-basics) | 30 min. |
+| Learning Shortcuts    | [ShortcutFoo](https://www.shortcutfoo.com) | TBD |
+| Aesthetic Foundation  | [Treehouse](http://teamtreehouse.com/library/websites/aesthetic-foundations) | 2.5 hrs. |
+| Technology Terms      |  [Skillcrush](http://www.skillcrush.com/terms/) | 1 hr. |
 
 
 
 ### Command Line // Terminal // Bash
 
 | Topic       | Source        | Est. Time |
-|------------ | ------------- | --------- |
+|-------------|---------------|-----------|
 | Getting started with the Console | [Treehouse](http://teamtreehouse.com/library/programming/console-foundations/getting-started-with-the-console) | 1 hr. |
 | Command Line Basics | [Treehouse](http://blog.teamtreehouse.com/command-line-basics) | 30 min. |
 | Bash Basics | [Lifehacker](http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything) | 30 min. |
@@ -46,23 +46,26 @@ My posts will be in three parts split into three weeks and will pull from the va
 
 ### HMTL
 
-| Topic       | Source        | Est. Time |
-|------------ | ------------- | --------- |
+| Topic       | Source       | Est. Time |
+|-------------|--------------|-----------|
 | Web Fundamentals (Focus on 1-3) | [Codecademy](http://www.codecademy.com/tracks/web) | 4 hrs. |
 | HTML | [Treehouse](http://teamtreehouse.com/library/websites/html) | 8 hrs. |
 
 
 ### CSS
 
-| Topic       | Source        | Est. Time |
-|------------ | ------------- | --------- |
+| Topic      | Source      | Est. Time |
+|------------|-------------|-----------|
 | Web Fundamentals (Focus on 4-6) | [Codecademy](http://www.codecademy.com/tracks/web) | 4 hrs. |
 | CSS Foundations | [Treehouse](http://teamtreehouse.com/library/websites/css-foundations-2) | 15 hrs. |
 
 ### Week 1 Review Exercises
 
 | Topic       | Source        | Est. Time |
-|------------ | ------------- | --------- |
+|-------------|---------------|-----------|
 | 3 for 5 (HTML5 & CSS3) | [Code School](http://www.codeschool.com/courses/functional-html5-css3) | 6 hrs. |
 | Build a Simple Website | [Treehouse](http://teamtreehouse.com/library/websites/build-a-simple-website) | 6 hrs. |
 
+[Feedback is always welcome. Drop me a line!](https://twitter.com/jcalebCollins)
+
+###### Onward!
